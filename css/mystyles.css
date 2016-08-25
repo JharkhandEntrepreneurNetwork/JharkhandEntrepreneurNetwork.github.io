@@ -15,3 +15,11 @@
   padding: 20px 0px;
   background-color: #AfAfAf;
 }
+.partners-container h1 {
+    color:#33C1FF;
+    text-align: center;
+}
+.logos-row{
+    padding-top:20px;
+    padding-bottom:20px;
+}
