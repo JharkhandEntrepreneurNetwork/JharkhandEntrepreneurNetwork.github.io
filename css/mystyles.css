@@ -23,3 +23,27 @@
     padding-top:20px;
     padding-bottom:20px;
 }
+
+img{
+    align-self: center;
+
+}
+.img-reponsive{
+    padding:20px;
+}
+
+.intro {
+    padding:20px;
+}
+
+.part-logo {
+    width:150;
+    height:125;
+}
+/*
+@media(max-width:500px) {
+    .part-logo{
+        width:70%;
+        height:70%;
+    }
+}*/
