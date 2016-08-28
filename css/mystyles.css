@@ -1,15 +1,38 @@
-
+body {
+    text-align:center;
+}
 .jumbotron {
   margin: 0px auto;
-  background: #7986CB;
+  /*background: #7986CB; */
+  background:url("../images/main-background.png") no-repeat center center;
+  background-size:100%
   color: floralwhite;
+   padding: 0px 0px;
 }
 
-.navbar {
-  background-color: #303f9f;
-  color: #eeeeee;
+.img-responsive {
+    margin: 0 auto;
+    padding-bottom: 20px;
+    padding-top:20px;
 }
 
+.intro-row {
+    color:floralwhite;
+    background:#01BFE5;
+    text-align:center;
+    font-family: "Lucida Grande";
+    font-size:18px;
+    letter-spacing:0.62px;
+    line-height: 32px;
+}
+.intro {
+    padding-bottom: 16px;
+    padding-top:16px;
+}
+
+.launch-row {
+    color:#979797;
+}
 .row-footer {
   margin: 0px auto;
   padding: 20px 0px;
@@ -28,13 +51,8 @@ img{
     align-self: center;
 
 }
-.img-reponsive{
-    padding:20px;
-}
 
-.intro {
-    padding:20px;
-}
+
 
 .part-logo {
     width:150;
