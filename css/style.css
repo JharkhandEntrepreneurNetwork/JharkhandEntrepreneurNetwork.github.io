@@ -1,0 +1,172 @@
+body{
+
+
+font-family: LucidaGrande;
+font-size: 18px;
+letter-spacing: 0.11px;
+line-height: 32px;
+}
+.container-fluid{
+   padding: 50px 0px;
+}
+.header{
+
+  background: url('../images/header-bg.png') no-repeat fixed 0px -150px;
+  background-size: cover;
+
+}
+.logo{
+
+  width: 150px;
+  height: 194px;
+  display: block;
+  margin: 50px auto;
+  background: url('../images/logo.svg') no-repeat;
+}
+
+.intro{
+
+
+background: #01BFE5;
+color:white;
+text-align: center;
+}
+
+.intro h1{
+  /* WHO ARE WE?: */
+font-family: SegoeUI-Bold;
+font-size: 36px;
+color: #FFFFFF;
+letter-spacing: 1.24px;
+text-transform: uppercase;
+}
+.intro p{
+
+ text-align: justify;
+font-family: LucidaGrande;
+font-size: 18px;
+color: #FFFFFF;
+margin-top: 50px;
+}
+.signup{
+
+  color:#A5A5A5;
+    background: url('../images/header-bg.png') no-repeat 0px 0px;
+  background-size: cover;
+}
+.signup h2{
+  color:#4F4F4F;
+  font-family: SegoeUI-Bold;
+  font-size: 36px;
+  color: #4F4F4F;
+  letter-spacing: 1.24px;
+  text-transform: uppercase;
+}
+.slogan{
+
+font-family: LucidaGrande-Bold;
+font-size: 14px;
+color: #A5A5A5;
+letter-spacing: 0.48px;
+}
+
+.signup input[type="text"]{
+
+display: block;
+width: 60%;
+margin:  20px auto;
+/* Rectangle 3: */
+background: #F7F7F7;
+font-family: SegoeUI-Bold;
+font-size: 16px;
+color: #E5E5E5
+letter-spacing: 0.82px;
+border: 0px;
+padding: 10px 20px;
+}
+.signup input[type="submit"]{
+
+display: block;
+width: 60%;
+margin:  20px auto;
+background: #01BFE5;
+color: white;
+font-family: SegoeUI-Bold;
+font-size: 24px;
+color: #FFFFFF;
+letter-spacing: 0.82px;
+font-family: SegoeUI-Bold;
+font-size: 24px;
+
+letter-spacing: 0.82px;
+border: 0px;
+padding: 10px 20px;
+}
+
+.mailbox{
+  /* Rectangle 2: */
+background: #FFFFFF;
+border: 15px solid #01BFE5;
+padding: 0px 10px;
+margin-top: 20px;
+}
+.box{
+  position: relative;
+  top: -40px;
+  right:-45%;
+  background: url('../images/mail.png');
+  width: 58px;
+  height: 58px;
+  display: block;
+}
+
+.network{
+
+  /* Rectangle 4: */
+background: #FAFAFA;
+
+
+  }.network h3, .contact h3{
+  font-family: SegoeUI-Bold;
+font-size: 36px;
+color: #6F6F6F;
+letter-spacing: 1.24px;
+text-transform: uppercase;
+text-align: center;
+}
+
+.plogo{
+  margin-top: 50px;
+}
+
+.contact{
+
+  background: url('../images/contact-bg.png');
+}
+
+.contact p{
+
+  margin-top: 50px;
+}
+.social{
+  text-align: center;
+}
+.social ul li{
+list-style: none;
+display: inline-block;
+margin-top: 50px;
+padding: 0px 30px;
+
+ 
+
+
+}
+
+.copyright{
+  text-align: center;
+  /* © COPYRIGHT ENTREPRE: */
+
+font-size: 19px;
+color: #B3B3B3;
+letter-spacing: 0.65px;
+}
