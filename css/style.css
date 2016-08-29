@@ -123,12 +123,12 @@ margin-top: 20px;
 .network{
 
   /* Rectangle 4: */
-background: #FAFAFA;
+background: #40A5CF;
 
 
   }.network h3, .contact h3{
   font-family: SegoeUI-Bold;
-font-size: 36px;
+font-size: 18px;
 color: #6F6F6F;
 letter-spacing: 1.24px;
 text-transform: uppercase;
@@ -137,6 +137,7 @@ text-align: center;
 
 .plogo{
   margin-top: 50px;
+
 }
 
 .contact{
