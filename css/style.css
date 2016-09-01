@@ -171,3 +171,13 @@ font-size: 19px;
 color: #B3B3B3;
 letter-spacing: 0.65px;
 }
+
+/* meadia queries */
+
+@media(max-width:500px) {
+    .contact {
+        font-size:12px;
+        line-height:24px;
+    }
+    
+}
