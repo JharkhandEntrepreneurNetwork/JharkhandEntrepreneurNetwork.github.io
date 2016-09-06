@@ -184,5 +184,17 @@ letter-spacing: 0.65px;
         font-size:12px;
         line-height:24px;
     }
-    
+    .intro h1 {
+        font-size:24px;
+    }
+    .intro p {
+        font-size:12px;
+        line-height:24px;
+    }
+    .signup h2{
+        font-size:24px;
+    }
+    .copyright{
+        font-size:14px;
+    }
 }
